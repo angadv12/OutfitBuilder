@@ -1,0 +1,12 @@
+{
+    "name": "Depop Outfit Builder",
+    "version": "1.0.0",
+    "description": "This is an extension for creating outfits from your Depop saved and purchased items.",
+    "manifest_version": 3,
+    "author": "Angad Brar",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Depop Outfit Builder"
+    }
+
+}
